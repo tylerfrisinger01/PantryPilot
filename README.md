@@ -1,0 +1,1 @@
+The local Database file is within the realease named "Local_Database", You will also have to create a .env file within the root folder and add a gemini key as well as OpenAI key or no AI features will function as they should
